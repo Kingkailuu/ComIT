@@ -1,2 +1,2 @@
 # ComIT
-HTML
+Excercises
